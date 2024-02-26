@@ -1,3 +1,3 @@
-Install required libraries
+#Install required libraries
 %%capture
 %pip install tqdm seaborn skillsnetwork scikit-learn==0.24
