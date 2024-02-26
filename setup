@@ -1,0 +1,11 @@
+Setup
+For this lab, we will be using the following libraries:
+
+pandas for managing the data.
+numpy for mathematical operations.
+scipy for scientific and statistical computing capabilities.
+sklearn for machine learning and machine-learning-pipeline related functions.
+statsmodels for performing statistical analysis, including regression.
+seaborn for visualizing the data.
+matplotlib for additional plotting tools.
+tqdm for providing progress bars to Python loops.
