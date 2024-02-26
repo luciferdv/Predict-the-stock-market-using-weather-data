@@ -1,0 +1,16 @@
+Objectives
+After completing this lab you will be able to:
+
+Perform time series analysis, avoiding common pitfalls and traps
+Manage and manipulate time series data
+Conduct exploratory data analysis (EDA)
+Handle missing data in time series contexts
+Perform feature engineering for time series analysis
+Address seasonality in time series data
+Test for and ensure stationarity
+Construct models for time series forecasting
+Evaluate the performance of time series models using cross-validation
+Use a variety of models for time series prediction tasks, including:
+Linear regression
+ARIMA/ARMA/ARMAX/ARIMAX/SARIMAX
+Random forest regression
